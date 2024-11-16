@@ -7,5 +7,6 @@ def prime():
     else:
         return print("number is prime")
     
+    
 k = prime()
 print(k)
